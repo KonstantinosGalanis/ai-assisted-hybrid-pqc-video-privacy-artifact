@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+facecrypt/
+roi-video-crypto/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated experiment outputs
+runs/*
+!runs/.gitkeep
+results/
+outputs/
+logs/
+
+# Generated videos
+cipher*.mkv
+cipher*.mp4
+decrypted*.mkv
+decrypted*.mp4
+restored*.mkv
+restored*.mp4
+*_cipher.mkv
+*_cipher.mp4
+*_decrypted.mkv
+*_decrypted.mp4
+
+# Runtime sidecars and payloads
+rois*.jsonl
+payload*.jsonl
+*.manifest.json
+
+# Keystream / randomness artifacts
+keystream*.bin
+*.bin
+
+# Model exports and runtime-generated model files
+*.engine
+*.onnx
+*.trt
+
+# Large temporary media
+*.avi
+*.mov
+*.webm
+
+# Ultralytics / experiment caches
+.cache/
+.ultralytics/
+wandb/
+runs/detect/
+runs/segment/

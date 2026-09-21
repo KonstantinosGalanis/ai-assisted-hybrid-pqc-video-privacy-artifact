@@ -1,0 +1,15 @@
+tracker_type: botsort
+
+track_high_thresh: 0.20
+track_low_thresh: 0.05
+new_track_thresh: 0.20
+track_buffer: 20
+match_thresh: 0.75
+fuse_score: True
+
+gmc_method: none          # use none if camera is fixed; sparseOptFlow if camera moves
+
+proximity_thresh: 0.4
+appearance_thresh: 0.8
+with_reid: True
+model: auto

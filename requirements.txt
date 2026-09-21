@@ -1,0 +1,14 @@
+numpy
+opencv-python
+av
+tqdm
+torch
+torchvision
+ultralytics
+numba
+cryptography
+scipy
+pandas
+matplotlib
+scikit-image
+nistrng
