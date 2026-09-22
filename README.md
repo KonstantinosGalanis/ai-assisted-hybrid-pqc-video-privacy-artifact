@@ -27,7 +27,7 @@ SE-581 83 Linköping, Sweden
 
 Contact:
 
-- konga899@student.liu.se
+- konstantinegalanis@gmail.com
 - achgalanis@gmail.com
 
 ---
