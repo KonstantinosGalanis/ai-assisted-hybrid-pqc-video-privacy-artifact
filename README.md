@@ -16,11 +16,10 @@ The artifact provides standalone implementations for:
 
 ## Authors
 
-Konstantinos Orestis Vasileios Galanis\*
+**Konstantinos Orestis Vasileios Galanis**  
+**Achilleas Alexandros Vasileios Galanis**
 
-Achilleas Alexandros Vasileios Galanis\*  
-
-\*Konstantinos Orestis Vasileios Galanis and Achilleas Alexandros Vasileios Galanis contributed equally to this work.
+*Both authors contributed equally to this work.*
 
 Department of Computer and Information Science (IDA)  
 Linköping University  
