@@ -16,10 +16,10 @@ The artifact provides standalone implementations for:
 
 ## Authors
 
-Achilleas Alexandros Vasileios Galanis\*  
 Konstantinos Orestis Vasileios Galanis\*
+Achilleas Alexandros Vasileios Galanis\*  
 
-\*Achilleas Alexandros Vasileios Galanis and Konstantinos Orestis Vasileios Galanis contributed equally to this work.
+\*Konstantinos Orestis Vasileios Galanis and Achilleas Alexandros Vasileios Galanis contributed equally to this work.
 
 Department of Computer and Information Science (IDA)  
 Linköping University  
@@ -27,8 +27,8 @@ SE-581 83 Linköping, Sweden
 
 Contact:
 
-- achga418@student.liu.se
 - konga899@student.liu.se
+- achga418@student.liu.se
 
 ---
 
